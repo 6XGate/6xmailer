@@ -30,5 +30,5 @@ configuration information.  ALWAYS!!!  Since this script is im BETA, these instr
 will change.
 
 If anyone would like to help me with coding, documentation, or any other aspect of this
-mailer such as themes or language packs, then goto www.sixxgate.da.ru and e-mail me at the
+mailer such as themes or language packs, then goto [old site removed] and e-mail me at the
 e-mail address under the Contacting Us page.
